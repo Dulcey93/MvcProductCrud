@@ -53,7 +53,7 @@
 
 ## About The Project
 
-<img src="MvcProductCrud/wwwroot/images/images/trolley.png" alt="Demo Screenshot" width="100%" />
+<img src="MvcProductCrud/wwwroot/images/Index.PNG" alt="Demo Screenshot" width="100%" />
 
 This project was developed by @Dulcey93 as part of a personal learning journey with ASP.NET Core MVC. The application demonstrates a complete CRUD (Create, Read, Update, Delete) workflow connected to a MySQL database.
 
@@ -155,4 +155,4 @@ Project Link: [https://github.com/Dulcey93/MvcProductCrud](https://github.com/Du
 [issues-shield]: https://img.shields.io/github/issues/Dulcey93/MvcProductCrud.svg?style=for-the-badge
 [issues-url]: https://github.com/Dulcey93/MvcProductCrud/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/dulcey93
+[linkedin-url]: https://www.linkedin.com/in/Dulcey93
