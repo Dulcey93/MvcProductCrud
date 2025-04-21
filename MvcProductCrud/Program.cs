@@ -16,10 +16,13 @@ builder.Services.AddControllersWithViews();
 var app = builder.Build();
 
 // 🌐 Configuración del middleware HTTP
-if (!app.Environment.IsDevelopment())
+if (app.Environment.IsDevelopment())
 {
-    // En producción: manejo global de errores
-    app.UseExceptionHandler("/Home/Error");
+    app.UseDeveloperExceptionPage(); // <- esto muestra errores detallados
+}
+else
+{
+    app.UseExceptionHandler("/Home/Error"); // 👈 Manejo de errores
     app.UseHsts(); // 👈 Seguridad: Strict-Transport-Security
 }
 

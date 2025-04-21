@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Dulcey93/MvcProductCrud">
-    <img src="MvcProductCrud/wwwroot/images/images/trolley.png" alt="Logo" width="80" height="80">
+    <img src="MvcProductCrud/wwwroot/images/trolley.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">MvcProductCrud</h3>
